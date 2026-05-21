@@ -20,11 +20,13 @@ Full-Stack Developer đam mê thiết kế hệ thống tối ưu, sạch sẽ v
 
 ---
 
-## 🕹️ My Contribution Game
+## 🕹️ Retro Dev Game
 
-🦖 *Lịch đóng góp code của tôi biến thành bản đồ Pacman:*
-<p align="left">
-  <img src="https://ocean.deno.dev/v1/pacman/tamthanh" alt="Pacman Eating Contributions" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Snake%20Game&fontSize=30" alt="Snake Header" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/ocean.gif" alt="Snake Game" width="80%" />
 </p>
 
 ---
