@@ -1,7 +1,7 @@
 # Hi, I'm Nguyen Tam Thanh 👋
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/YOUR_ACTUAL_USERNAME/count.svg" alt="Visitors Count" />
+  <img src="https://twivatar.herokuapp.com/github/tamthanh" alt="Profile views" height="30" />
 </p>
 
 Full-Stack Developer đam mê thiết kế hệ thống tối ưu, sạch sẽ và có khả năng mở rộng tốt.
@@ -24,7 +24,7 @@ Full-Stack Developer đam mê thiết kế hệ thống tối ưu, sạch sẽ v
 
 🦖 *Lịch đóng góp code của tôi biến thành bản đồ Pacman:*
 <p align="left">
-  <img src="https://ocean.deno.dev/v1/pacman/YOUR_ACTUAL_USERNAME" alt="Pacman Eating Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamthanh&theme=github" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -54,6 +54,6 @@ Full-Stack Developer đam mê thiết kế hệ thống tối ưu, sạch sẽ v
 ## 📊 GitHub Performance
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.allthethings.ch/api?username=tamthanh&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.allthethings.ch/api/top-langs/?username=tamthanh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
