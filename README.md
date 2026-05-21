@@ -28,8 +28,6 @@ I am a passionate **Backend Developer** specializing in building scalable, effic
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,aws" alt="DevOps" /> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,postman" alt="Tools" /> |
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00C2FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenTamThanhIUH&color=00C2FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
