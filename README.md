@@ -1,14 +1,24 @@
 # Hi, I'm Nguyen Tam Thanh 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=4A154B&style=flat-square" alt="Tam Thanh" />
+  <img src="https://komarev.com/ghpvc/?username=tamthanh&label=Profile%20views&color=4A154B&style=flat-square" alt="Tam Thanh" />
 </p>
 
 Full-Stack Developer đam mê thiết kế hệ thống tối ưu, sạch sẽ và có khả năng mở rộng tốt.
 
+- 📱 **TikTok Channel:** Tối thường xuyên chia sẻ kiến thức tại [🇻🇳 ctdl.gt](https://www.tiktok.com/@ctdl.gt)
 - 🛠️ **Tư duy thiết kế:** SOLID Principles | Design Patterns | Microservices Architecture
 - 🎯 **Backend focus:** RESTful APIs | WebSocket | JWT & Refresh Token Securing
 - 💬 **Kết nối:** [Email của Thanh](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+## 🕹️ My Contribution Game
+
+🦖 *Lịch đóng góp code của tôi biến thành bản đồ Pacman:*
+<p align="left">
+  <img src="https://ocean.deno.dev/v1/pacman/tamthanh" alt="Pacman Eating Contributions" />
+</p>
 
 ---
 
@@ -27,6 +37,6 @@ Full-Stack Developer đam mê thiết kế hệ thống tối ưu, sạch sẽ v
 ## 📊 GitHub Performance
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamthanh&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamthanh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150px" />
 </p>
