@@ -14,56 +14,7 @@ Backend Developer • Java & Spring Boot Enthusiast • Fullstack Developer
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```java
-public class NguyenTamThanh {
 
-    String role = "Backend Developer";
-
-    String[] languages = {
-        "Java",
-        "JavaScript",
-        "TypeScript"
-    };
-
-    String[] backend = {
-        "Spring Boot",
-        "Node.js",
-        "Express.js",
-        "RESTful APIs",
-        "JPA/Hibernate",
-        "JWT",
-        "Refresh Token",
-        "WebSocket"
-    };
-
-    String[] frontend = {
-        "React",
-        "Redux Toolkit",
-        "Tailwind CSS",
-        "Bootstrap"
-    };
-
-    String[] databases = {
-        "MySQL",
-        "MariaDB",
-        "MongoDB",
-        "Redis"
-    };
-
-    String[] devops = {
-        "Docker",
-        "Git/GitHub",
-        "Postman",
-        "AWS"
-    };
-
-    String[] architecture = {
-        "SOLID Principles",
-        "Design Patterns",
-        "Microservices Architecture"
-    };
-}
-```
 
 <br/>
 
