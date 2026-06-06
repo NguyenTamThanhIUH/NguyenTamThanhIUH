@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-I am a passionate **Backend Developer** specializing in building scalable, efficient, and robust web applications. With a strong foundation in **Java & Spring Boot**, combined with modern frontend technologies like **React**, I love turning complex problems into elegant, clean code
+I am a passionate **Backend Developer** specializing in building scalable, efficient, and robust web applications. With a strong foundation in **Java & Spring Boot**, combined with modern frontend technologies like **React**, I love turning complex problems into elegant, clean code.
 
-- 🔭 **Current Focus:** Microservices Architecture & Cloud Deployment
+- 🔭 **Current Focus:** Microservices Architecture & Cloud Deployment.
 - ⚡ **Core Philosophy:** Clean code, SOLID principles, and continuous optimization.
 - 🌱 **Learning & Exploring:** Deep diving into AWS ecosystem and advanced system design.
 - 💬 **Ask me about:** Java, Spring Ecosystem, RESTful APIs, and Database Design.
